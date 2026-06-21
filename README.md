@@ -111,5 +111,19 @@ SentinelRx/
 
 ---
 
+## ⚠️ Disclaimer — Prototype · Educational Use Only
+
+SentinelRx was created as a competition submission for **Jake Van Clief's Operator Challenge #7 on Skool.com** and is shared publicly for **educational and demonstration purposes only**.
+
+**This is not a deployed product.** SentinelRx has not been placed on the market, put into service, or validated for clinical use. It is a pre-market prototype and falls within the research and development exclusion of **Article 2(8) of EU Regulation (EU) 2024/1689 (EU AI Act)**, which exempts AI development activity prior to market placement.
+
+**Do not use this to make real medication decisions.** Outputs are illustrative only. This system does not constitute a medical device, does not replace a licensed pharmacist or physician, and has undergone no clinical validation.
+
+**EU and non-US users:** SentinelRx is built on US regulatory frameworks (FDA Beers Criteria 2023) and is not designed or validated for use outside the United States.
+
+Any person seeking to deploy a comparable system in a real-world context must conduct a full EU AI Act compliance assessment. Health-related AI advisory systems may qualify as high-risk AI under Annex III of Regulation (EU) 2024/1689.
+
+---
+
 *SentinelRx · XVI Health Intelligence · 2026*
 *US only · Decision logic grounded in: American Geriatrics Society Beers Criteria® 2023*
